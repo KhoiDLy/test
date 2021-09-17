@@ -3,3 +3,5 @@ This is file 2
 We made some important changes here
 
 Windows add a line of code
+
+Linux add another line of code
